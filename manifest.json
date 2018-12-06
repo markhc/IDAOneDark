@@ -1,0 +1,8 @@
+{
+    "theme_name": "IDAOneDark",
+    "author": "MarkHC",
+    "version": "v1.0",
+    "preview_image": "preview.png",
+    "clr_file": "OneDark.clr",
+    "qss_file": "stylesheet.qss"
+}
